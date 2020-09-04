@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Landing-page-pepsi" title="Landing-page-pepsi" src="https://github.com/caiquedevs/Landing-page-pepsi/blob/master/github/logo.svg" width="220px" />
+
 </h1>
 
 <p align="center">
