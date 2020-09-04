@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Hotspot" title="Hotspot" src="https://github.com/caiquedevs/Hotspot/blob/master/github/logo.svg" width="220px" />
+    <img alt="Landing-page-pepsi" title="Landing-page-pepsi" src="https://github.com/caiquedevs/Landing-page-pepsi/blob/master/github/logo.svg" width="220px" />
 </h1>
 
 <p align="center">
@@ -12,8 +12,8 @@
 <br>
 
 <p align="center">
-  <img alt="Hotspot" src="https://github.com/caiquedevs/Hotspot/blob/master/github/template.svg" width="100%">
-  <img src="https://github.com/caiquedevs/Hotspot/blob/master/github/demo.gif" width="100%" />
+  <img alt="Landing-page-pepsi" src="https://github.com/caiquedevs/Landing-page-pepsi/blob/master/github/template.png" width="100%">
+  <img src="https://github.com/caiquedevs/Landing-page-pepsi/blob/master/github/demo.gif" width="100%" />
 </p>
 
 ## 🚀 Tecnologias
@@ -21,24 +21,18 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
-  - Redux
-  - Redux-persist
-  - React-toastify
+  - Eslint
+  - Prettier
   - Styled-components
 
 ## 💻 Projeto
 
-Um Hotspot é um efeito visual que usamos para mostrar algo novo em uma interface. Geralmente é uma bolinha com alguma animação tentando chamar a atenção do usuário, e ao clicar na bolinha abre-se uma caixa com a explicação.
-
-- Para criar um efeito visual insira em qualquer tag Html a seguinte className: ItemHotSpot.
-- Para que o elemento seja capturado ele deve conter um ID unico.
-- Após a captura e a criação do Hotspot será exibido um modal onde poderá inserir um título,
-e um texpo para seu hotspot.
-- Para abrir e fechar seu hotspot apenas clique em cima do botão vermelho, que indica um hotspot.
+Uma Landing page focada na web design, com efeitos de transições entre as cores de fundo ao escolher
+um refrigerante no menu inferior da tela.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/EKWi3ZTDSP6eoF7MDBSbMe/Conpass?node-id=0%3A1). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
+Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/FGUegyYTtRkdMsyzObJ7QU/Untitled?node-id=10%3A85). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
 ## :information_source: Como usar
 
@@ -50,10 +44,10 @@ Na sua linha de comando:
 
 ```bash
 # Clonar este repositório
-$ git clone https://github.com/caiquedevs/Hotspot.git
+$ git clone https://github.com/caiquedevs/Landing-page-pepsi.git
 
 # Entre no repositório
-$ cd Hotspot
+$ cd LandingPagePepsi
 
 # Instalar dependências
 $ yarn install
